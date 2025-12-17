@@ -116,26 +116,20 @@ EXPERIENCE = [
 # Proyectos (El Core "Tech")
 PROJECTS = [
     {
-        "title": "Optimización de Inventarios con ML",
+        "title": "Optimización de Inventarios",
         "problem": "Exceso de inventario y quiebres de stock (Fill-rate 82%) en Retail.",
-        "solution": "Desarrollo de algoritmo en Python (Scikit-learn) para predicción de demanda estacional conectado a Oracle NetSuite.",
-        "impact": "Mejora de Fill-rate al 95% y reducción de merma del 67%.",
-        "stack": ["Python", "Pandas", "Oracle NetSuite", "Forecasting"]
+        "solution": "Desarrollo de algoritmo para predicción de demanda.",
+        "impact": "Mejora de Fill-rate al 95%.",
+        
     },
     {
-        "title": "Dashboard EVA & ROIC en Tiempo Real",
-        "problem": "Toma de decisiones lenta basada en reportes estáticos mensuales.",
-        "solution": "Pipeline de datos SQL automatizado que alimenta un Dashboard interactivo de creación de valor (EVA).",
-        "impact": "Visibilidad diaria de rentabilidad real vs presupuesto para +10 unidades de negocio.",
-        "stack": ["SQL", "Power BI", "Financial Modeling", "VBM"]
-    },
-    {
-        "title": "Automatización de Conciliación Bancaria",
-        "problem": "Procesos manuales propensos a error y cierres contables lentos.",
-        "solution": "Script de Python para cruce automático de movimientos bancarios vs ERP.",
-        "impact": "Reducción de 4 días en el cierre mensual (-20% tiempo de ciclo).",
-        "stack": ["Python", "Pandas", "Automation", "ERP"]
+        "title": "Dashboard EVA & ROIC",
+        "problem": "",
+        "solution": "",
+        "impact": "",
+        "stack": [""]
     }
+    
 ]
 
 # Skills
